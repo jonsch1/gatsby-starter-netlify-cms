@@ -46,8 +46,8 @@ export const ProductPageTemplate = ({
                   {title}
                 </h2>
               </div>
-              <div>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div id="youtube-video">
+              <iframe id="iframe" width="560" height="315" src="https://www.youtube.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowFullScreen"></iframe>
               </div>
               <div className="columns">
                 <div className="column is-7">
