@@ -46,8 +46,8 @@ export const ProductPageTemplate = ({
                   {title}
                 </h2>
               </div>
-              <div id="youtube-video" style={{position: 'relative', width: '100%', padding-bottom: '56.25%', height: '0'}}>
-              <iframe style={{position: 'absolute', top:'0', left: '0', width: '100%', height: '100%'}} width="560" height="315" src="https://www.youtube.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div id="youtube-video" style={{position: 'relative', width: '100%', padding-bottom: '56.25%', height: '0',}}>
+              <iframe style={{position: 'absolute', top:'0', left: '0', width: '100%', height: '100%',}} width="560" height="315" src="https://www.youtube.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div className="columns">
                 <div className="column is-7">
