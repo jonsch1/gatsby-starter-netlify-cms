@@ -47,7 +47,7 @@ export const ProductPageTemplate = ({
                 </h2>
               </div>
               <div id="youtube-video">
-              <iframe id="iframe" width="560" height="315" src="https://www.youtube.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowFullScreen"></iframe>
+              <iframe id="iframe" width="560" height="315" src="https://www.youtube-nocookie.com/embed/eh6DYJT_kpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowFullScreen"></iframe>
               </div>
               <div className="columns">
                 <div className="column is-7">
